@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageWallApi", "MessageWallApi\MessageWallApi.csproj", "{E54BA54D-DCFC-4FEA-9AD0-ADCADB6F5CEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiMiniProject", "ApiMiniProject\ApiMiniProject.csproj", "{D3104907-2868-47F1-A179-EABE43F3DE3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E54BA54D-DCFC-4FEA-9AD0-ADCADB6F5CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E54BA54D-DCFC-4FEA-9AD0-ADCADB6F5CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E54BA54D-DCFC-4FEA-9AD0-ADCADB6F5CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E54BA54D-DCFC-4FEA-9AD0-ADCADB6F5CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3104907-2868-47F1-A179-EABE43F3DE3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3104907-2868-47F1-A179-EABE43F3DE3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3104907-2868-47F1-A179-EABE43F3DE3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3104907-2868-47F1-A179-EABE43F3DE3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE75734E-C1C9-4799-B90A-E22794E398BE}
+	EndGlobalSection
+EndGlobal
